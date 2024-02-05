@@ -1,4 +1,4 @@
-name: api_final_yatube
+name: flake8_tests
 
 on: [push]
 
